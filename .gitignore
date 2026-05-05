@@ -1,0 +1,19 @@
+# datasets
+data/
+datasets/
+CIFAR10/
+
+# pytorch
+*.pt
+*.pth
+
+# cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# env
+venv/
+.env
